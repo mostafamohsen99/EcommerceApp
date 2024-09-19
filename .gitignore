@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# React Native specific files
+android/
+ios/
+
+# Mac specific files
+.DS_Store
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# React Native packager
+*.packager.js
+
+# Env files
+.env
